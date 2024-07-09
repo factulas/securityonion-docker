@@ -1,6 +1,6 @@
 # Security Onion Elastalert Docker image running on Centos7.
 
-FROM centos:7
+FROM centos:centos8
 
 LABEL maintainer "Security Onion Solutions, LLC"
 
